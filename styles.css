@@ -1,0 +1,27 @@
+.recipe-list {
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.main-title {
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(3, 105, 16);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.pic-main {
+    width: 100px;
+    height: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
