@@ -1,0 +1,54 @@
+*{
+    font-family: monospace;
+}
+
+#main-title {
+
+    font-size: 50px;
+    background-color: rgb(90, 167, 193);
+    color: white;
+    text-align: center;
+}
+
+.list.recipe-list {
+
+    font-size: 25px;
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    
+}
+
+.title {
+
+    font-size: 30px;
+    font-weight: 600;
+    background-color: lightblue;
+}
+
+.para, .step-list {
+
+    font-size: 15px;
+}
+
+.ingredients-list {
+
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.step-list {
+
+    
+}
+
+.header {
+
+    background-color: lightblue;
+}
+
+.recipe-list ul {
+
+    list-style-type: none;
+}
